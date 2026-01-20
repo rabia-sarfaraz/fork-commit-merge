@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
         body: const Center(
           child: Text(
             'Hello, Flutter!',
-            style: TextStyle(fontSize: 24),
+            style: TextStyle(fontSize: 30),
           ),
         ),
       ),
